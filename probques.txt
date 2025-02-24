@@ -1,0 +1,7 @@
+1 const str = "9876543210"; -> "*********10"   mask 
+2 Longest word 
+3 capitalize 
+4 reverse string  hello world should be printed as world hello
+5 "JavaScript Object Notation" to "JSON"
+6  Sort characters alphabetically - convert bca to abc 
+ 

@@ -1,0 +1,155 @@
+body { 
+    display: flex;
+    background-color: #00157F
+    
+    }
+    .overAllMainDiv{
+        display: flex;
+
+
+    }
+    
+    .overAllMainHeaderDiv{
+        display:flex;
+        color:white;
+        margin:0px;
+        margin-left:20px;
+        padding:10px;
+        gap:30px;
+        font-family: 'Arial-black', sans-serif;
+        font-weight:strong;
+         justify-content:center;
+         align-content:center;
+        
+        
+    
+    }
+    
+    .brandNameDiv{
+        
+        display:flex;
+        color:white;
+        font-weight:strong;
+        font-size:25px;
+        gap:10px;
+        margin:30px;
+        padding:10px;
+        float:left;
+            
+        
+    }
+    
+    .HeadercontentsDiv{
+         display:flex;
+         color:white;
+         margin:60px;
+         padding:10px;
+         gap:100px;
+         float:left;
+         font-size:25px;
+         justify-content:center;
+         align-content:center;
+         font-weight:100;
+         
+    }
+    
+    .loginDiv{
+        
+        display:flex;
+        color:white;
+        gap:100px;
+        margin:60px;
+        padding:10px;
+        float:right; 
+        font-size:25px;
+        font-weight:100;
+        
+    }
+    
+    .join{
+        
+        display:flex;
+        color:white;
+        gap:0px;
+        margin:0px;
+        padding-left:20px;
+        padding-right:20px;
+        float:right; 
+        font-size:25px;
+        font-weight:100;
+        background-color:rgb(40, 115, 139);
+        
+    }
+    
+    .overAllWellcomeMainDiv{
+         display: flex;
+         justify-content:center;
+         align-content:center;
+         margin:20px;
+         font-weight:200;
+         margin: 200;
+        
+    }
+
+    .subwelcomediv{
+        display: flex;
+        justify-content: center;
+        margin: 50px;
+    }
+    
+    .welcomediv{
+        /* display: flex;
+        padding: 10px;
+        margin: 10px;
+        justify-content:center;
+        align-content:center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: medium;
+        font-weight: 20px;
+        color: rgb(103, 166, 187); */
+
+        background-color: red;
+
+
+    }
+    
+    .maincontentdiv{
+        display: flex;
+        padding: 10px;
+        margin: 10px;
+        justify-content:center;
+        align-content:center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: medium;
+        font-weight: 100;
+        color: lightblue;
+
+
+    }
+
+    .subcontentdiv{
+        display: flex;
+        justify-content:center;
+        align-content:center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: medium;
+        font-weight: 100;
+        color: lightblue;
+
+    }
+    .learnmorediv{
+        display: flex;
+        justify-content:center;
+        align-content:center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: medium;
+        font-weight: 100;
+        color: lightblue;
+        
+
+        
+
+
+    }
+
+    

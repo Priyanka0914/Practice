@@ -1,0 +1,94 @@
+/* General styles for the page */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Container class to center content */
+.container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+/* Header styles */
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 40px 0;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+header p {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+/* Navigation styles */
+nav {
+    background-color: #333;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: #333;
+    border-radius: 4px;
+}
+
+nav ul li a:hover {
+    background-color: #4CAF50;
+}
+
+/* Main Content Area */
+main {
+    background-color: white;
+    padding: 40px 0;
+}
+
+main h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+main p {
+    font-size: 18px;
+}
+
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+footer p {
+    margin: 0;
+    font-size: 16px;
+}
+

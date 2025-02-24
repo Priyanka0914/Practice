@@ -1,0 +1,310 @@
+
+body{ /* display: flex; */
+    background-color: #252b42}
+    
+    
+    
+    /* .overAllMainDiv{
+        display: flex;
+
+
+    }
+     */
+    .overAllMainHeaderDiv{
+        display:flex;
+        color:white;
+        margin:0px;
+        margin-left:20px;  
+        padding:0px;
+        gap:30px;
+        font-family: 'Arial-black', sans-serif;
+        font-weight:strong;
+        justify-content:center;
+        align-content:center;
+        
+        
+    
+    }
+    
+    .brandNameDiv{
+        
+        display:flex;   
+        color:white;
+        font-weight:strong;
+        font-size:25px;
+        gap:10px;
+        margin:30px;
+        padding:10px;
+        float:left;
+		
+		
+		
+		/* display: flex; */
+/* color: white; */
+/* font-weight: strong; */
+/* font-size: 10%;  */
+/* gap: 5%;          */
+/* margin: 5%;       */
+/* padding: 2%;      */
+/* float: left; */
+            
+        
+    }
+    
+    .HeadercontentsDiv{
+         display:flex;
+         color:white;
+         margin:60px;
+         padding:10px;
+         gap:100px;
+         float:left;
+         font-size:25px;
+         justify-content:center;
+         align-content:center;
+         font-weight:100;
+         
+    }
+    
+    .loginDiv{
+        
+        display:flex;
+        color:white;
+        gap:100px;
+        margin:60px;
+        padding:10px;
+        float:right; 
+        font-size:25px;
+        font-weight:100;
+        
+    }
+    
+    .join{
+        
+        display:flex;
+        color:white;
+        gap:0px;
+        margin:0px;
+        padding-left:20px;
+        padding-right:20px;
+        float:right; 
+        font-size:25px;
+        font-weight:100;
+        background-color:#23a6f0;
+        
+    }
+
+
+
+
+
+    
+    .overAllWelcomeMainDiv{
+         /* display: flex; */
+         /* justify-content:center; */
+         /* margin:20px; */
+         /* font-weight:400;/ */
+         /* margin: 200; */
+
+		 padding: 10px;
+		 margin: 10px;
+		 font-family: Arial, Helvetica, sans-serif;
+		 font-weight: 300;
+		 text-align: center;
+		 color: #23a6f0;
+		 font-size: 15px;
+
+        
+    }
+    .subWelcomeDiv{
+        /* display: flex; */
+        justify-content: center;
+        margin: 50px;
+    }
+    
+    .welcomeDiv{
+        padding: 10px;
+        margin: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+        /* font-weight: 400; */
+        color: #23a6f0;
+		text-align: center;
+
+
+
+
+    }
+    
+    .mainContentDiv{
+        /* display: flex; */
+        /* padding: 10px; */
+        /* margin: 10px; */
+        /* justify-content:center; */
+        /* align-content:center; */
+        /* font-family: Arial, Helvetica, sans-serif; */
+        /* font-size: medium; */
+        /* font-weight: 100; */
+        /* color: lightblue; */
+
+		padding: 10px;
+		margin: 10px;
+		text-align: center;
+		align-content: center;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: xx-large;
+		font-weight: 100;
+		color: white;
+
+
+    }
+
+    .subContentDiv{
+        /* display: flex; */
+        /* justify-content:center; */
+        align-content:center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: medium;
+        font-weight: 100;
+        color: #23a6f0;
+		margin: 15px;
+		padding: 15px;
+
+    }
+    .learnMoreDiv{
+        display: flex;
+        justify-content:center;
+		gap: 20px;
+        align-content:center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: medium;
+        font-weight: 100;
+        color: #23a6f0;
+		margin: 15px;
+            }
+
+    .text1{
+		background-color: #23a6f0;
+		color: white;
+		padding: 20px 30px;
+
+
+/* background-color: red; */
+    
+	}
+
+	.text2{
+		color:#23a6f0;
+		border: 1px solid #23a6f0;
+		padding: 20px 30px;
+	}
+
+	.overAllFooterMainDiv{
+		display: flex;
+		gap: 25px;
+		margin: 10px 20px 100px 20px;
+		padding: 10px;
+		justify-content: center;
+	}
+
+	.box1{
+		padding: 30px;
+		background-color: white;
+		width: 250px;
+		height: 275px;
+
+
+
+	}
+
+	.box2{
+		padding: 30px;
+		background-color: white;
+		width: 250px;
+		height: 275px;
+
+	}
+
+	.box3{
+
+		padding: 30px;
+		background-color: rgb(72, 201, 233);
+		width: 250px;
+		height: 275px;
+	
+
+	}
+
+	.box11{
+		padding: 75px 1px 1px 1px;
+		background-color: lightcoral;
+		border: 0.5px lightcoral;
+		margin: 3px 180px 21px 1px;
+
+	}
+
+	.trainingcoursesdiv{
+		border-bottom: 1px solid orangered;
+		padding: 34px 0px 27px 0px;
+		width: 106px;
+
+
+	}
+	
+	.contentdiv{
+		padding: 25px 0px 0px 0px;
+		color: lightslategray;
+
+	}
+	
+	.box21{
+		padding: 75px 1px 1px 1px;
+		background-color: #b9eaa8;
+		border: 0.5px #b9eaa8;
+		margin: 3px 180px 21px 1px;
+		
+	}
+	
+	
+	.onlinecoursesdiv{
+		
+		border-bottom: 1px solid orangered;
+		padding: 34px 0px 27px 0px;
+		width: 106px;
+
+		
+		
+	}
+	
+	
+	.content2div{
+		padding: 25px 0px 0px 0px;
+		color: lightslategray;
+		
+		
+	}
+	
+	.box31{
+	      
+		padding: 75px 1px 1px 1px;
+		background-color: #ffffff; 
+		border: 0.5px #ffffff;
+		margin: 3px 180px 21px 1px;
+		
+	}
+	
+	.trainingcourses1div{
+		
+		color:white;
+		border-bottom: 1px solid white;
+		padding: 34px 0px 27px 0px;
+		width: 106px;
+
+		
+		
+	}
+	
+	.content3div{
+		
+		padding: 25px 0px 0px 0px;
+		color: #ffffff;
+		
+	}

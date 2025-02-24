@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel= "stylesheet" href="new.css">
+</head>
+   
+   
+   
+   .flex-container{ 
+ margin: 10px;
+}
+.a{
+	
+	display: inline-block;
+	float: left-side;
+	margin: 50px;
+	padding-left: 100px;
+	padding-right; 1000px; 
+	color: white;
+	font-weight; 50px;
+	font-family; "Arial black";
+}
+.b{
+	
+	display: inline-block;
+	gap: 10px;
+	margin:20px;
+	padding:20px;
+	color:white;
+	float; left
+}
+
+.c{
+	display; inline-block
+	color; white
+	gap: 10px;
+	margin:20px;
+	padding:20px;
+	float; left;
+	
+}
+	
+   	
+
+.button{ 
+	display; inline-block
+    float; left-side 
+	padding: 10px 20px;             
+    margin-left: 10px;              
+    background-color: #3498db;      
+    color: white;        
+    border: none;                   
+    border-radius: 5px;             
+}
+
+		   
+		   
+		   
+		   
+		   
+		   

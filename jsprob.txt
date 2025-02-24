@@ -1,0 +1,141 @@
+
+
+   
+1  const sentence = "I am learning JavaScript programming language";
+
+const words=sentence.split(" ");
+	
+	
+	let longestWord=' ';
+	
+	for(i=0;i<words.length; i++){
+	if (words[i].length>longestWord.length){
+	longestWord=words[i];
+		}
+	}
+console.log(" " + longestWord);
+
+
+
+
+
+	
+2 	const sentence=" I am learning JavaScript programming language"
+	
+const capitalizedWord = sentence.toUpperCase();
+
+console.log(" "  +capitalizedWord)
+
+
+3  const sentence = "I am learning JavaScript";
+
+const reversedsentence = sentence.split(" ");
+
+ const reversedsentence1=sentence.split(" ").reverse();
+ 
+ const reversedsentence2= sentence.split(" ").reverse().join(" ");
+ 
+ console.log(" "  +reversedsentence2)
+ 
+ I am eating --> I ma gnitae
+ 
+ 
+	const sentence= "I am eating"
+
+	const reversedsentence = sentence.split(" ");
+
+	let reversesentence=' ';
+
+		for(i=0;i<words.length;i++){
+		
+		let reversedWord=' ';
+		
+		for(let j = words[i].length-1;j>=0;j--){
+		
+		reversedWord=words[i][j];
+		
+		}
+		
+		reversesentence=reversedWord + ' ';
+		
+		
+		}
+		
+		console.log(" " reversesentence)
+ 
+ 
+ 
+ const sentence = "I am eating";
+
+const words = sentence.split(" ");
+
+let reversedSentence = '';  
+
+
+for (let i = 0; i < words.length; i++) {
+    let reversedWord = '';  
+
+
+    for (let j = words[i].length - 1; j >= 0; j--) {
+        reversedWord += words[i][j];  
+}
+    reversedSentence += reversedWord + ' ';
+
+}
+
+console.log(reversedSentence.trim());
+ 
+ 
+ 4  const sentence= 9876543210 ;
+ 
+ const sentenceStr=sentence.toString();
+ 
+ const maskedSentence= "*".repeat(8) + sentenceStr.slice(-2);
+ 
+ console.log(" "  +maskedSentence) ;
+ 
+ 
+ const sentence = "9876543210"; 
+
+const output = sentence.slice(-2).padStart(sentence.length, "*");
+
+console.log(output);
+ 
+ 
+ 5  const sentence = "JavaScript Object Notation";
+const words = sentence.split(" "); 
+
+let acronym = ''; 
+
+
+for (let i = 0; i < words.length; i++) {
+ 
+    for (let j = 0; j < words[i].length; j++) {
+       
+        if (words[i][j] === words[i][j].toUpperCase()) {
+            acronym += words[i][j]; 
+        }
+    }
+}
+
+console.log(acronym); 
+
+6   const str = " programming language "
+  
+  const sortedstr = str.split("").sort().join("")
+  
+  console.log(" " +sortedstr)
+  
+  
+  ['ygduyiyd']
+  
+  Array length
+Array toString()
+Array push
+Array delete()
+Array concat()
+Array slice()
+Array splice()
+Array flat()
+
+1  

@@ -1,0 +1,232 @@
+body { 
+    background-color: #252b42
+    
+    }
+   
+    .overAllMainHeaderDiv{
+        display:flex;
+        color:#ffffff;
+		width:90%;
+        font-family: 'Arial-black', sans-serif;
+        justify-content:space-evenly;
+    }
+    
+    .brandNameDiv{
+        
+        display:flex;
+		justify-content: space-between;
+		width:35%;
+        color:#ffffff;
+        font-size:14px;
+        align-items: center;
+        
+    }
+    
+    .HeadercontentsDiv{
+        display:flex;
+		width: 60%;
+        color:#ffffff;
+        font-size: 20px;
+        justify-content: space-between;
+		 
+	}
+		 
+		 
+    .branddiv{
+	font-size:28px;
+	
+}
+    
+    .loginDiv{
+        
+        display:flex;
+        color:#ffffff;
+        width: 15%;
+        justify-content: space-between;
+        align-items: center;
+        font-size:21px;
+       
+        
+    }
+    
+    .join{
+        
+        display:flex;
+        color:#ffffff;
+        padding: 15px 35px;
+        background-color: #23a6f0;
+        border-radius: 10px;
+        border: 1px solid #23a6f0;
+
+    }
+
+
+
+
+
+    
+    .overAllWelcomeMainDiv{
+ 
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #23a6f0;
+    font-size: 15px;
+        
+    }
+    .subWelcomeDiv{
+        
+        margin: auto;
+        padding: 50px;
+        width: 25%;
+    }
+    
+    .welcomeDiv{
+       
+		
+	font-size: 8px;
+    padding: 30px 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #23a6f0;
+
+
+
+
+    }
+    
+    .mainContentDiv{
+
+		
+		font-family: Arial, Helvetica, sans-serif;
+    font-size: 53px;
+    color: #ffffff;
+    }
+
+    .subContentDiv{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    margin: 30px;
+  
+
+    }
+.learnMoreDiv { 
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: #23a6f0;
+}
+
+   .text1 {
+    background-color: #23a6f0;
+    color: #ffffff;
+    padding: 19px 35px;
+    border: 1px solid #23a6f0;
+    border-radius: 10px;
+
+	}
+
+.text2 {
+    color: #23a6f0;
+    border: 1px solid #23a6f0;
+    padding: 20px 45px;
+    border-radius: 7px;
+}
+.overAllFooterMainDiv {
+    display: flex;
+    gap: 50px;
+    margin-top: 50px;
+    justify-content: center;
+}
+
+.box1 {
+    padding: 30px;
+    background-color: #ffffff;
+    width: 260px;
+    height: 260px;
+}
+
+
+
+.box3{
+    padding: 30px;
+    background-color: #48C9E9;
+    width: 260px;
+    height: 260px;
+
+	
+
+	}
+.orangeBox {
+    background-color: #f08080;
+    width: 30%;
+    height: 30%;
+
+	}
+	
+	
+.trainingcoursesdiv {
+    border-bottom: 1px solid #ff4500;
+    padding: 34px 0px 27px 0px;
+    width: 106px;
+}
+
+.contentdiv {
+    padding: 25px 0px 0px 0px;
+    color: #778899;
+    width: 89%;
+}
+	
+	
+	
+	
+.greenBox {
+    background-color: #b9eaa8;
+    border: 0.5px #b9eaa8;
+    width: 30%;
+    height: 30%;
+}
+
+
+.content2div {
+    padding: 25px 0px 0px 0px;
+    color: #778899;
+    width: 89%;
+
+}
+
+	.onlinecoursesdiv {
+    border-bottom: 1px solid #ff4500;
+    padding: 34px 0px 27px 0px;
+    width: 106px;
+}
+
+
+
+.whiteBox {
+
+    background-color: #ffffff;
+    border: 0.5px #ffffff;
+    width: 30%;
+    height: 30%;
+   
+}
+
+
+
+
+.trainingcourses1div {
+    color: #ffffff;
+    border-bottom: 1px solid #ffffff;
+    padding: 34px 0px 27px 0px;
+    width: 106px;
+}
+
+
+
+.content3div {
+    padding: 25px 0px 0px 0px;
+    color: #ffffff;
+    width: 89%;
+}
