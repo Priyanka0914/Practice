@@ -46,7 +46,32 @@ const car = () => {
       ],
     },
   ];
-  return object;
+  // const newColl = { college: "abcd" };
+  // // return object;
+  // car();
+
+  // const result = car();
+  // console.log(result);
+
+  // const clg = object
+  //   .map((stateName) => stateName.university)
+  //   .flat()
+  //   .map((univ) => univ.college)
+  //   .flat()
+  //   .map((college) => college.collegeName)
+  //   .flat();
+  // // );
+  // console.log(clg);
+
+  const newColl = { collegeName: "newCOll" };
+  const state = object.find((state) => state.stateName === "Kerala");
+  // console.log(state);
+  const university = state.university.find(
+    (university) => university.universityName === "mal university"
+  );
+  const college = university.college.push({ collegeName: "newCOll" });
+
+  // console.log(JSON.stringify(object));
 };
 // //   const result = object.find((e) => e.stateName);
 // const result = object.find((e) => {
@@ -65,18 +90,18 @@ const car = () => {
 
 car();
 
-const result = car();
-console.log(result);
+// const result = car();
+// console.log(result);
 
-const clg = result
-  .map((stateName) => stateName.university)
-  .flat()
-  .map((univ) => univ.college)
-  .flat()
-  .map((college) => college.collegeName)
-  .flat();
-// );
-console.log(clg);
+// const clg = result
+//   .map((stateName) => stateName.university)
+//   .flat()
+//   .map((univ) => univ.college)
+//   .flat()
+//   .map((college) => college.collegeName)
+//   .flat();
+// // );
+// console.log(clg);
 
 // state
 // university

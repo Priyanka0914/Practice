@@ -1,0 +1,87 @@
+know default value to change in css properties
+know units to apply for each property
+change welcomediv in template 
+javascript datatypes 
+differnce between json and javascript
+smple program in var let and const
+arrow function
+array reduce filter map
+where we use string array object and their use cases
+
+    13.02.25
+    string and string methods
+    differnence between substr and slice
+    notes str and str method -what -return type
+    
+    
+    
+    str fn -split -substr - slice -trim -replace -replaceall -charAt
+
+17/02/25 task
+
+difference between null and undefined 
+detailed explanation of tags 
+why is objectassign used 
+interpretor and complier example
+why is js a interpretor
+mdn static object methods
+increment decrement operator in c 
+differnce in assign create and normal and see different operators
+
+18/02/25
+function , types of function - normal,unanounymous , arrow function(latest), return type, paramater (arguement), flow of javascript execution. 
+default values in javascript , assign to 0 
+
+arrow function 
+const fun1 = (a,b=0)=>{   }
+
+functions arrow functions with paramater and return practice 	
+map filter reduce array methods
+spread operators 
+
+
+19/02/25
+
+spread operators and functions of it practice
+
+20/02/25
+
+find findindex include some fill
+task-> map,filte,reduce,includes,find,findindex,fill,some with return type what?
+
+21/02/2025
+
+task-> website using react centre align div with two inputfield and a button (border,colour) 
+git git comments , how git works ,try to implement git in vscode 
+10 staircase problem statement  --> https://leetcode.com/problems/climbing-stairs/description/
+(similar to fibanocci dynamic programming).
+universiites name from all the states -> array of objects (flat method)
+
+24/02/2025
+
+state and props concept
+ onchange -> check this concept 
+ no return in the practice array of objects 
+ insert new obj coll using find spread or push
+ template changes  
+
+25/02/2025
+
+
+class compo with states
+add onchange in username, change username to Username
+dom virtual dom
+methods and return type
+functions 
+react why react node js 
+
+26/02/2025
+
+state and props how to use it
+class component and functional component 
+
+
+componentDidMount
+componentDidUpadte
+componentWillMount & upadate
+
